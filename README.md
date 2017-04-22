@@ -1,4 +1,7 @@
-# test coverage for  [open-graph-scraper (v2.5.0)](https://github.com/jshemas/openGraphScraper#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-open-graph-scraper.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-open-graph-scraper) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-open-graph-scraper.svg)](https://travis-ci.org/npmtest/node-npmtest-open-graph-scraper)
+# npmtest-open-graph-scraper
+
+#### basic test coverage for  [open-graph-scraper (v2.5.0)](https://github.com/jshemas/openGraphScraper#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-open-graph-scraper.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-open-graph-scraper) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-open-graph-scraper.svg)](https://travis-ci.org/npmtest/node-npmtest-open-graph-scraper)
+
 #### Node.js scraper service for Open Graph info
 
 [![NPM](https://nodei.co/npm/open-graph-scraper.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/open-graph-scraper)
@@ -92,7 +95,8 @@
     "scripts": {
         "test": "mocha tests/"
     },
-    "version": "2.5.0"
+    "version": "2.5.0",
+    "bin": {}
 }
 ```
 
